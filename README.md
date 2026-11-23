@@ -2,7 +2,7 @@
 
 JBE Concepts email signatures, hosted on GitHub Pages.
 
-- `index.html` – list of signatures
+- `index.html` – landing page
 - `<name>.html` – one self-contained signature per person
 
 ## Add a signature
